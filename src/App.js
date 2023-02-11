@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+    <div>
     <div class="buttons">
   <button class="duplicate">duplicate</button>
   <button data-delete-btn>delete</button>
@@ -27,6 +28,7 @@ function App() {
   </div>
 </div>
 </div>
+    </div>
     );
 }
 
